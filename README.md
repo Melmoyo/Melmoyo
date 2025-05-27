@@ -1,4 +1,4 @@
-![](https://komarev.com/ghpvc/?username=Melmoyo)
+
 <h1 align="center">Hi 👋, I'm Melissa Msayinwa</h1>
 <h3 align="center">A passionate frontend developer</h3>
 
