@@ -1,12 +1,12 @@
 
 <h1 align="center">Hi 👋, I'm Melissa Msayinwa</h1>
-<h3 align="center">A passionate frontend developer</h3>
+<h3 align="center">A passionate frontend developer and AI Engineer</h3>
 
-- 🔭 I’m currently working on **Portfolio website for a graphic designer**
+- 🔭 I’m currently working on **Automation workflows**
 
-- 🌱 I’m currently learning **React, Tailwind, Bootstrap**
+- 🌱 I’m currently learning **Langchain, Zapier**
 
-- 🤝 I’m looking for help with **Bootstrap, React and Tailwind**
+- 🤝 I’m looking for help with **Python**
 
 - 💬 Ask me about **HTML,CSS and JavaScript**
 
